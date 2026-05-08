@@ -9,56 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF copy of my CV is available [here](/files/cv.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Economics, University of Birmingham, 2017–2022
+* MSc in Economics, University of Manchester, 2014–2015
+* BSc in Development Economics, SOAS, University of London, 2009–2012
 
-Work experience
+Academic Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Fellow**, City-REDI, University of Birmingham, February 2022 – present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Grants and Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Awarded (Principal Investigator)**
+* *Evaluating the impact of digital skills shortages in the UK*, Research England QR funding, January 2023 – July 2024. £50,000.
+
+**Selected funded projects (as Co-I or Researcher)**
+* *Innovation Procurement Empowerment Centre Partnership* — Connected Places Catapult (ongoing)
+* *Evaluation of Preventative Spending* — Research England QR (ongoing)
+* *FDI into Midlands University Spinouts* — AHRC (ongoing)
+
+Teaching
+======
+**Teaching Assistant, University of Birmingham**
+* 2018 — PG Econometrics
+* 2019 — UG China and the World Economy
+* 2020 — UG Corporate Finance
+
+**Marking, University of Birmingham**
+* 2019–2020 — UG Principles of Economics
+* 2021 — PG Macroeconomics
+
+**Supervision**
+* 2025 — MSc International Business dissertations, University of Birmingham
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Conference Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Research Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Languages:** Native Chinese, Fluent English
+* **Statistical software & programming:** Stata, EViews, R, Python
+
+References
 ======
-* Currently signed in to 43 different slack teams
+* **Prof. Alessandra Guariglia**, Professor of Economics, Department of Economics, University of Birmingham — a.guariglia@bham.ac.uk
+* **Prof. Raquel Ortega-Argilés**, Professor of Regional Economic Development, Alliance Manchester Business School, University of Manchester — raquel.ortega-argiles@manchester.ac.uk
